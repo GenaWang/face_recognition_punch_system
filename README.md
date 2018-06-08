@@ -11,7 +11,7 @@ The folder named "face_attendance_system" is about detecting face information fr
 ***
 ## How to use?
 Firstly there is a folder named "readme.txt" in the there folders.You can read them to understand how to use each model.
-Secondly I mainly introduce the folder named "record_face_data".
+Secondly I mainly introduce the folder named "face_attendance_system".
 ***
 You need some external dependencies:opencv/dlib/face_recognition and install them:
 pip install opencv/pip install dlib/pip install face_recognition.
